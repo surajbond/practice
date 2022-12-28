@@ -8,7 +8,11 @@ public class ArraylistDemo {
 		list.add("suraj");
 		list.add("teju");
 		list.add("bondage");
-		System.out.println(list);
+		
+		for(String s:list) {
+			System.out.println(s);
+			
+		}
 		
 		
 	}
