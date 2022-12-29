@@ -11,6 +11,7 @@ public class ArraylistDemo {
 		
 		for(String s:list) {
 			System.out.println(s);
+			System.out.println("new line 1 ");
 			
 		}
 		
